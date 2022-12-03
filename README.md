@@ -1,4 +1,4 @@
-# Education Board Management System
+# Education Board Management System Client
 
 This is a project of education board management system as a thesis of ECE 402 Course.
 
