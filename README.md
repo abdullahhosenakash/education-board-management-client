@@ -10,9 +10,9 @@ This is a project of education board management system as a thesis of ECE 402 Co
 
 ## Supervisor
 
-Dr. Md. Mahabub Hossain
-Professor
-Dept. of ECE
+Dr. Md. Mahabub Hossain <br/>
+Professor <br/>
+Dept. of ECE <br/>
 HSTU
 
 ### The project is under development
