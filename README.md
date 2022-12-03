@@ -1,6 +1,7 @@
 # Education Board Management System Client
 
-This is a project of education board management system as a thesis of ECE 402 Course.
+This is a project of education board management system as a thesis of ECE 402 Course. <br/>
+The live link of the project is [here](https://eboardmgt.web.app/)
 
 ## Group Members
 
