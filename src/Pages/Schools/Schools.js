@@ -1,8 +1,8 @@
-import axios from 'axios';
-import React, { useEffect } from 'react';
+import React from 'react';
 import { Table } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import useSchools from '../../hooks/useSchools';
+import './Schools.css';
 
 const Schools = () => {
   const [schoolList] = useSchools();

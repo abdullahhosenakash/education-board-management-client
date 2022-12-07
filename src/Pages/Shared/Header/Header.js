@@ -1,13 +1,10 @@
 import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import useSchools from '../../../hooks/useSchools';
 import CustomLink from '../CustomLink';
 import './Header.css';
 
 const Header = () => {
-  const [schoolList] = useSchools();
-
   return (
     <Navbar collapseOnSelect expand='lg' bg='success' variant='dark'>
       <Container>

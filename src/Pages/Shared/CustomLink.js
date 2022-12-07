@@ -9,7 +9,7 @@ const CustomLink = ({ to, children }) => {
   return (
     <NavLink
       to={to}
-      className='text-white text-decoration-none nav-link'
+      className='text-white text-decoration-none'
       style={({ isActive }) => (isActive ? activeStyle : {})}
     >
       {children}
