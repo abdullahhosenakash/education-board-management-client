@@ -1,0 +1,144 @@
+[
+  {
+    "id": "1",
+    "schoolName": "Hello High School",
+    "EIIN": "135611",
+    "location": {
+      "village": "Panch Vulat",
+      "union": "Goga",
+      "thana": "Sharsha",
+      "district": "Jashore"
+    },
+    "teachers": {
+      "headmaster": {
+        "teacherName": "Sakib Khan",
+        "department": "Physics",
+        "contactNumber": "20221206",
+        "photoURL": "https://i.ibb.co/X8PTNfz/sakib-khan.jpg",
+        "email": "sakib@khan.com",
+        "gender": "male",
+        "location": {
+          "village": "Panch Vulat",
+          "union": "Goga",
+          "thana": "Sharsha",
+          "district": "Jashore"
+        }
+      },
+      "assistantHeadmaster": {
+        "teacherName": "Bappa Raj",
+        "department": "Chemistry",
+        "contactNumber": "2020222200",
+        "photoURL": "https://i.ibb.co/FqFLqCc/bappa-raj.jpg",
+        "email": "bappa@raj.com",
+        "gender": "male",
+        "location": {
+          "village": "Golachipa",
+          "union": "Bagharpara",
+          "thana": "Boalmari",
+          "district": "Ajparaga"
+        }
+      },
+      "assistantTeachers": [
+        {
+          "teacherName": "Elon Mask",
+          "department": "Mathematics",
+          "contactNumber": "12344321",
+          "photoURL": "https://i.ibb.co/s65v23z/elon-musk.jpg",
+          "email": "elon@mask.com",
+          "gender": "male",
+          "location": {
+            "village": "Bazarpara",
+            "union": "Panthapath",
+            "thana": "Mirpur",
+            "district": "New York"
+          }
+        },
+        {
+          "teacherName": "Madam Qurie",
+          "department": "Physics",
+          "contactNumber": "11223344",
+          "photoURL": "https://i.ibb.co/0nB17WX/kingopoly.jpg",
+          "email": "madam@qurie.com",
+          "gender": "female",
+          "location": {
+            "village": "London",
+            "union": "UK",
+            "thana": "Basherhat",
+            "district": "Dinajpur"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "schoolName": "Hmm High School",
+    "EIIN": "335611",
+    "location": {
+      "village": "Baraputa",
+      "union": "Putkhali",
+      "thana": "Sharsha",
+      "district": "Jashore"
+    },
+    "teachers": {
+      "headmaster": {
+        "teacherName": "Omor Sunny",
+        "department": "Biology",
+        "contactNumber": "16727621",
+        "photoURL": "https://i.ibb.co/ykfMTjV/omor-sunny.jpg",
+        "email": "omor@sunny.com",
+        "gender": "male",
+        "location": {
+          "village": "Mirpur",
+          "union": "Saratola",
+          "thana": "Basherhat",
+          "district": "HSTU"
+        }
+      },
+      "assistantHeadmaster": {
+        "teacherName": "Amin Khan",
+        "department": "Chemistry",
+        "contactNumber": "7267826",
+        "photoURL": "https://i.ibb.co/GnpQX9M/amin-khan.jpg",
+        "email": "amin@khan.com",
+        "gender": "male",
+        "location": {
+          "village": "Taltola",
+          "union": "Agunpara",
+          "thana": "Basherhat",
+          "district": "Chadganj"
+        }
+      },
+      "assistantTeachers": [
+        {
+          "teacherName": "Monir Khan",
+          "department": "Bangla",
+          "contactNumber": "09393922",
+          "photoURL": "https://i.ibb.co/5xMhRrR/monir-khan.jpg",
+          "email": "monir@khan.com",
+          "gender": "male",
+          "location": {
+            "village": "Chekanogor",
+            "union": "Bejpara",
+            "thana": "Barir Pashe",
+            "district": "Australia"
+          }
+        },
+        {
+          "teacherName": "Hero Alom",
+          "department": "Physics",
+          "contactNumber": "09094094",
+          "photoURL": "https://i.ibb.co/yFLX9zJ/download.jpg",
+          "email": "hero@alom.com",
+          "gender": "male",
+          "location": {
+            "village": "London",
+            "union": "UK",
+            "thana": "Basherhat",
+            "district": "Dinajpur"
+          }
+        }
+      ]
+    }
+  }
+]

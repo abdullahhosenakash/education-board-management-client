@@ -1,18 +1,16 @@
-import React from "react";
-import { NavLink } from "react-router-dom";
+import React from 'react';
+import { NavLink } from 'react-router-dom';
 
 const CustomLink = ({ to, children }) => {
   const activeStyle = {
-    textDecoration: "underline"
+    borderBottom: '2px solid white',
+    fontWeight: 'bold'
   };
-  const notActiveStyle = {
-    textDecoration: "none"
-  };
-
   return (
     <NavLink
       to={to}
-      style={({ isActive }) => (isActive ? activeStyle : notActiveStyle)}
+      className='text-white text-decoration-none nav-link'
+      style={({ isActive }) => (isActive ? activeStyle : {})}
     >
       {children}
     </NavLink>
